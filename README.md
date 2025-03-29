@@ -69,7 +69,7 @@ Serial Range: Block start: IN-5-272251153-2-2-0-347 ---  Block end: IN-5-2722835
 _________________
 UCR Issuance Date: 29/03/2025
 
-QTY: 146250 CoUs
+TOTAL QTY: 146250 CoUs
 
 Period: 2021-2024
 __________
