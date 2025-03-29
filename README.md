@@ -51,6 +51,13 @@ Amount of Reductions	44,493 metric tonnes CO2 equivalent per annum
 Crediting Period (requested for renewal)	01 Mar 20 - 28 Feb 27
 
 Other crediting period(s): 01 Mar 06 - 28 Feb 13 , 01 Mar 13 - 29 Feb 20
+____________
+Crediting Period (CP) Status Period Issued CER 
+__________
+First Completed 1st Mar 2006 to 28th Feb 2013 : 2,08,153 tCO2e
+__________
+Second 1st Mar 2013 to 29th Feb 2020: 90,796 tCO2e
+________________________
 
 Monitoring report: 01 Mar 2020 - 31 Dec 2020
 
