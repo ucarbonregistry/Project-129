@@ -67,6 +67,36 @@ CERs requested from 01 Jan 2013 until 31 December 2020: 32388
 
 Serial Range: Block start: IN-5-272251153-2-2-0-347 ---  Block end: IN-5-272283540-2-2-0-347
 _________________
+UCR Issuance Date: 29/03/2025
 
+QTY: 146250 CoUs
+
+Period: 2021-2024
+__________
+01/01/2021-31/12/2021
+
+QTY: 41588
+
+Serial ID:  
+_________
+01/01/20222-31/12/2022
+
+QTY: 38526
+
+Serial ID: 
+________
+01/01/2023-31/12/2023
+
+QTY: 39023
+
+Serial ID: 
+
+________
+01/01/2024-31/12/2024
+
+QTY: 27113
+
+Serial ID: 
+_________
 
 
